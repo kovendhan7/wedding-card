@@ -1,0 +1,8 @@
+Build.js
+  Content-Type applicationjavascript
+
+Build.wasm
+  Content-Type applicationwasm
+
+Build.data
+  Content-Type applicationoctet-stream
